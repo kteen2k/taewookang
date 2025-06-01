@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Taewoo Kang / Academic Website"
+title                    : "Taewoo Kang / Trust but Falsify"
 title_separator          : "-"
 name                     : &name "Taewoo Kang"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "kteen2k/kteen2k.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Taewoo Kang, MSc."
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kangtaew@msu.edu" 
 
   # Academic websites
   academia         : # URL
