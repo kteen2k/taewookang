@@ -24,9 +24,8 @@ author:
   # Biographic information
   avatar           : "profile_tw.png"
   name             : "Taewoo Kang, MSc."
-  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "East Lansing 48864 MI, US"
   employer         : "Michigan State University"
   uri              : # URL
   email            : "kangtaew@msu.edu" 
