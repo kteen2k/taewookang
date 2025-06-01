@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Taewoo Kang / Trust but Falsify"
+title                    : "Taewoo Kang / "Trust but Falsify""
 title_separator          : "-"
 name                     : &name "Taewoo Kang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile_tw1.png"
   name             : "Taewoo Kang, MSc."
-  bio              : "Political Communication"
+  bio              : "Political Communication Researcher"
   employer         : "Michigan State University"
   uri              : # URL
   email            : "kangtaew@msu.edu" 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "taewoo-kang-3716638b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
