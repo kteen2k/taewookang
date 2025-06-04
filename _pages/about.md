@@ -13,7 +13,7 @@ My research program interrogates **the impact of digital platforms on civic life
 At the **micro level**, I investigate how digitally mediated communication shapes citizens’ socio-political attitudes, perceptions, and behaviors.
 At the **macro level**, I explore the function of digital infrastructure on civic engagement. 
 
-![Research Program](/images/research_program.png)
+![Research Program](/taewookang/images/research_program.png)
 
 Ultimately, my work aims to illuminate how *the **interplay** between micro-level digital practices and macro-level digital architectures can foster healthier **democratic processes***.
 
