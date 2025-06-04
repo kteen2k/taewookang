@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Taewoo Kang, a Ph.D. Candidate in the Information & Media **@** Michigan State University. 
+I'm Taewoo Kang | Ph.D. Candidate in Information & Media **@** Michigan State University. 
 My research program interrogates **the impact of digital platforms on civic life** through **the application of *quantitative* and *computational* methods**.
 
 At the **micro level**, I investigate how digitally mediated communication shapes citizens’ socio-political attitudes, perceptions, and behaviors.
