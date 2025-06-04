@@ -20,7 +20,7 @@ Recently, my micro-level research has focused on generative AI, particularly **L
 1. Testing the utility of LLMs as tools for analyzing media texts.<a href="https://doi.org/10.48550/arXiv.2502.00903" target="_blank" rel="noopener noreferrer">[1]</a>
 2. Examining LLMs' potential to foster more democratic digital public spheres.<a href="https://cristianvaccari.com/2024/10/03/program-of-the-10th-conference-of-the-international-journal-of-press-politics-university-of-edinburgh-17-18-october-2024/" target="_blank" rel="noopener noreferrer">[2]</a>
 
-On the macro side, I study how elements of digital civic infrastructure—such as broadband availability at the community level and digitally mediated civic communication among residents—shape patterns of political behaviors. <a href="https://doi.org/10.1177/00936502241311943" target="_blank" rel="noopener noreferrer">[3]</a> <a href="https://doi.org/10.1177/00936502241311943" target="_blank" rel="noopener noreferrer">[4]</a> <a href="https://doi.org/10.1177/20563051251315255" target="_blank" rel="noopener noreferrer">[5]</a>
+On the macro side, I study how elements of digital civic infrastructure—such as broadband availability at the community level and digitally mediated civic communication among residents—shape patterns of political behaviors. <a href="https://doi.org/10.1177/00936502241311943" target="_blank" rel="noopener noreferrer">[3]</a> <a href="https://doi.org/10.1080/19331681.2025.2511051" target="_blank" rel="noopener noreferrer">[4]</a> <a href="https://doi.org/10.1177/20563051251315255" target="_blank" rel="noopener noreferrer">[5]</a>
 
 My solo and first-authored work has been recognized with several awards, including:
 
