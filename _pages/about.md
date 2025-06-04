@@ -16,8 +16,7 @@ At the **macro level**, I explore the function of digital infrastructure on civi
 
 Recently, my micro-level research has focused on generative AI, particularly **Large Language Models (LLMs)**, both as a subject of inquiry and as a methodological tool in computational social science:
 
-1. I test the utility of LLMs as automated tools for analyzing media texts, such as political message.[1](
-https://doi.org/10.48550/arXiv.2502.00903)
+1. I test the utility of LLMs as automated tools for analyzing media texts, such as political message. <a href="https://doi.org/10.48550/arXiv.2502.00903" target="_blank" rel="noopener noreferrer">[1]</a>
 2. I explore LLMs' potential to foster more pluralistic / democratic digital public spheres.[2](https://cristianvaccari.com/2024/10/03/program-of-the-10th-conference-of-the-international-journal-of-press-politics-university-of-edinburgh-17-18-october-2024/)
 
 On the macro side, I study how elements of digital civic infrastructure—such as broadband availability at the community level and digitally mediated civic communication among residents—shape patterns of political behaviors [3](https://doi.org/10.1177/00936502241311943) [4](https://doi.org/10.1080/19331681.2025.2511051) [5](https://doi.org/10.1177/20563051251315255).
