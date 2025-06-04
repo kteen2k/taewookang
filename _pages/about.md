@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 I'm Taewoo Kang, a Ph.D. Candidate in the Information and Media program at Michigan State University. 
-My research explores *the impact of digital platforms on civic life*. 
+My research interrogates *the impact of digital platforms on civic life* through *the application of quantitative and computational methods*.
 
 At the **micro level**, I investigate how digitally mediated communication shapes citizens’ socio-political attitudes, perceptions, and behaviors. 
+At the **macro level**, I explore the function of digital infrastructure on civic engagement. 
 
-At the **macro level**, I explore the function of digital infrastructure on civic engagement. Ultimately, my work seeks to understand how micro-level digital practices and macro-level digital architectures interact to support healthier democratic processes.
+Ultimately, my work aims to illuminate how the interplay between micro-level digital practices and macro-level digital architectures can foster healthier democratic processes.
 
 Recently, my micro-level research has focused on generative AI, particularly **Large Language Models (LLMs)**, both as a subject of inquiry and as a methodological tool in computational social science:
 
