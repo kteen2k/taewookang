@@ -13,7 +13,9 @@ My research program interrogates **the impact of digital platforms on civic life
 At the **micro level**, I investigate how digitally mediated communication shapes citizens’ socio-political attitudes, perceptions, and behaviors.
 At the **macro level**, I explore the function of digital infrastructure on civic engagement. 
 
-Ultimately, my work aims to illuminate how the interplay between micro-level digital practices and macro-level digital architectures can foster healthier democratic processes.
+![Research Program](research_program.png)
+
+Ultimately, my work aims to illuminate how *the **interplay** between micro-level digital practices and macro-level digital architectures can foster healthier **democratic processes***.
 
 Recently, my micro-level research has focused on generative AI, particularly **Large Language Models (LLMs)**, both as a subject of inquiry and as a methodological tool in computational social science:
 
