@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm Taewoo Kang | Ph.D. Candidate in Information & Media **@** Michigan State University. 
-My research program interrogates **the impact of digital platforms on civic life** through **the application of *quantitative* and *computational* methods**.
+My research program interrogates **the impact of digital platforms on civic life** through **the application of *quantitative* and *computational* methods**. [CV](https://kteen2k.github.io/taewookang/files/CV_TKang_Jun2025.pdf)
 
 At the **micro level**, I investigate how digitally mediated communication shapes citizens’ socio-political attitudes, perceptions, and behaviors.
 At the **macro level**, I explore the function of digital infrastructure on civic engagement. 
