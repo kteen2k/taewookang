@@ -26,9 +26,9 @@ On the macro side, I study how elements of digital civic infrastructure—such a
 
 My solo and first-authored work has been recognized with several awards, including:
 
-- *Top Student-Led Paper*, ICA 2024 Political Communication Division
-- *Chaffee and McLeod Award*, AEJMC 2023 Communication Theory & Methods Division
-- *Top Faculty Paper*, AEJMC 2024 Newspaper and Online News Division
+- *Top Student-Led Paper*, ICA 2024 Political Communication Division <a href="https://kteen2k.github.io/taewookang/files/resubmission_CIL_2024_R-U_Tradeoffs.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+- *Chaffee and McLeod Award*, AEJMC 2023 Communication Theory & Methods Division <a href="https://kteen2k.github.io/taewookang/files/aejmc23_proceeding_2078375.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+- *Top Faculty Paper*, AEJMC 2024 Newspaper and Online News Division <a href="https://kteen2k.github.io/taewookang/files/VerificationPaperApril1.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 - *Top Faculty Paper*, AEJMC 2024 Community Journalism Group (second authored)
 
-You can find my research published in leading journals including *[Communication Research](https://doi.org/10.1177/00936502241311943), [Social Media + Society](https://doi.org/10.1177/20563051251315255), [Journal of Information Technology & Politics](https://doi.org/10.1080/19331681.2025.2511051), and [Journalism Studies](https://doi.org/10.1080/1461670X.2023.2246075)*. [Google Scholar](https://scholar.google.com/citations?user=r0abOPMAAAAJ&hl=en&oi=ao) | [ORCiD](https://orcid.org/0000-0002-4995-5145)
+You can find my research published in leading journals including *[Communication Research](https://doi.org/10.1177/00936502241311943), [Social Media + Society](https://doi.org/10.1177/20563051251315255), [Journal of Information Technology & Politics](https://doi.org/10.1080/19331681.2025.2511051), and [Journalism Studies](https://doi.org/10.1080/1461670X.2023.2246075)*. [Google Scholar](https://scholar.google.com/citations?user=r0abOPMAAAAJ&hl=en&oi=ao) *|* [ORCiD](https://orcid.org/0000-0002-4995-5145)
