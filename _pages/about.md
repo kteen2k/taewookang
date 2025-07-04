@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm Taewoo Kang | Ph.D. Candidate in Information & Media **@** Michigan State University. 
-My research program interrogates **the impact of digital platforms on civic life** through **the application of *quantitative* and *computational* methods**. [CV](https://kteen2k.github.io/taewookang/files/CV_TKang_Jun2025.pdf)
+My research program interrogates **the impact of digital platforms on civic life** through **the application of *quantitative* and *computational* methods**. [CV](https://kteen2k.github.io/taewookang/files/CV_TKang_latest.pdf)
 
 At the **micro level**, I investigate how digitally mediated communication shapes citizens’ socio-political attitudes, perceptions, and behaviors.
 At the **macro level**, I explore the function of digital infrastructure on civic engagement. 
@@ -31,4 +31,4 @@ My solo and first-authored work has been recognized with several awards, includi
 - *Top Faculty Paper*, AEJMC 2024 Newspaper and Online News Division <a href="https://kteen2k.github.io/taewookang/files/VerificationPaperApril1.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 - *Top Faculty Paper*, AEJMC 2024 Community Journalism Group (second authored)
 
-You can find my research published in leading journals including *[Communication Research](https://doi.org/10.1177/00936502241311943), [Social Media + Society](https://doi.org/10.1177/20563051251315255), [Journal of Information Technology & Politics](https://doi.org/10.1080/19331681.2025.2511051), and [Journalism Studies](https://doi.org/10.1080/1461670X.2023.2246075)*. [[Google Scholar](https://scholar.google.com/citations?user=r0abOPMAAAAJ&hl=en&oi=ao)] [[ORCiD](https://orcid.org/0000-0002-4995-5145)]
+You can find my research published in leading journals including *[Communication Research](https://doi.org/10.1177/00936502241311943),[Information, Communication & Society](https://doi.org/10.1080/1369118X.2025.2524579), [Social Media + Society](https://doi.org/10.1177/20563051251315255), [Journal of Information Technology & Politics](https://doi.org/10.1080/19331681.2025.2511051), and [Journalism Studies](https://doi.org/10.1080/1461670X.2023.2246075)*. [[Google Scholar](https://scholar.google.com/citations?user=r0abOPMAAAAJ&hl=en&oi=ao)] [[ORCiD](https://orcid.org/0000-0002-4995-5145)]
