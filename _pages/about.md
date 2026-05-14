@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Taewoo Kang (Ph.D, Michigan State University) and an incoming Assistant Professor of Communication in the Department of Communication at Yonsei University, Korea.
+My name is Taewoo Kang (Ph.D, Michigan State University). I am an incoming Assistant Professor of Communication in the Department of Communication at Yonsei University, Korea.
 My research program focuses on **digital platformization** and **political communication**. I am currently examining the potential of AI systems to promote deliberative democracy. [CV](https://kteen2k.github.io/taewookang/files/CV_TKang_latest.pdf)
 
 At the **micro level**, I investigate how digitally mediated communication shapes citizens’ socio-political attitudes, perceptions, and behaviors.
